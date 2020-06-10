@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLoggerUI", "EventLogge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1DFA8274-F3B3-4E92-B7F9-767207501DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDbConnection", "TestDbConnection\TestDbConnection.csproj", "{136431CA-CA5C-406F-9CAE-F7B012285672}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1DFA8274-F3B3-4E92-B7F9-767207501DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DFA8274-F3B3-4E92-B7F9-767207501DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DFA8274-F3B3-4E92-B7F9-767207501DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136431CA-CA5C-406F-9CAE-F7B012285672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136431CA-CA5C-406F-9CAE-F7B012285672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136431CA-CA5C-406F-9CAE-F7B012285672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136431CA-CA5C-406F-9CAE-F7B012285672}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
